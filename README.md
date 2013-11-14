@@ -1,6 +1,14 @@
 pg-async-crud
 =============
 
-Requirements
+
+
+Requirements:
 + tornado >= 3.x
-+ momoko
++ momoko (FSX/momoko)
++ psycopg2 >= 2.2.0
+
+Files:
++ LICENSE
++ README.md
++ pgasync.py
